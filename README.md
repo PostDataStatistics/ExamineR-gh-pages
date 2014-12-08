@@ -1,0 +1,1 @@
+This is the gh-pages for the *ExamineR* project of [PostDataStatistics](http://www.postdata-statistics.com/).
